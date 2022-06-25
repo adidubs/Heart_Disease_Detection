@@ -1,5 +1,5 @@
 # Heart_Disease_Detection
-Logistic Regression Implementation in Python
+Logistic Regression Implementation in Python ####
 Dependencies required to run the code in your computer:
 
 Python & Jupyter notebook.
